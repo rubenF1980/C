@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "funciones.h"
+#include "funcionesarrays1.h"
 #include <math.h>
 #define DESCUENTO 15.0
 
